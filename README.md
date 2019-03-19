@@ -44,20 +44,3 @@ Final dashboard for user group will make use of the predictions from our models 
 
 
 
-     a)  preprocessing that may be necessary (careful here)
-
-      b)  size of data - data must be “big” data (millions of records)
-
-      c)  tentative plan for analysis on GCP
-
-           1)  EDA and Preprocessing
-
-           2)  Dashboard for User group, Dashboard for Data Engineers
-
-           3)  GCP further processing - ML
-
-           4)  Evaluation of results
-
-           5)  Steps for production model
-
-           6)  Final Dashboard for User Groupb
