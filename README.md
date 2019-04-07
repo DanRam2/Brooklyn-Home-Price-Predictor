@@ -45,7 +45,7 @@ Final dashboard for user group will make use of the predictions from our models 
 The dataset can be found at this location: https://drive.google.com/open?id=1r2nISvGxzBH0qE4nMHM05bMFGYhsfF2u
 
 3) Some reults(EDAs) after data exploration are:
-![alt text](https://github.com/Batman024/Brooklyn-Home-Price-Predictor/upload/master/Year_sold (vs) Land_square_feet.png "Sales_price vs Land _in_Square_Feet")
+![alt text](https://drive.google.com/open?id=1zpi604vmM7xuXDy-fHFBa19Ei4dlmO2C "Sales_price vs Land _in_Square_Feet")
 
 
 
