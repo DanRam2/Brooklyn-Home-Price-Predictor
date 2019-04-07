@@ -44,3 +44,7 @@ Final dashboard for user group will make use of the predictions from our models 
 
 The dataset can be found at this location: https://drive.google.com/open?id=1r2nISvGxzBH0qE4nMHM05bMFGYhsfF2u
 
+3) Some reults(EDAs) after data exploration are:
+![alt text](This PC/Pictures/gcp/Year_sold (vs) Land_square_feet "Sales_price vs Land _in_Square_Feet")
+
+
