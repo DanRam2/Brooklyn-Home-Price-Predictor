@@ -2,12 +2,13 @@
 This is a project implementing the machine learning model for predict home sale prices for Brooklyn using Google Cloud Platform
 
 
-1)  Research question:  what is the group trying to learn or question to answer? Who is interested (audience)?
+1)  Research question:  what is the group trying to learn or provide an answer to? Who is interested?
 
- I have a house at brooklyn. Based on the certain parameters such as area(per square ft), zipcode, nieghbourhood, year of built and      type of property I would like to know the estimated sale price of the kind of property I am looking for.
+ User#1:
+ I am looking for a home in brooklyn. Based on the certain parameters such as area(per square ft), zipcode, nieghbourhood, year of built and type of property I would like to know the estimated sale price of the kind of property I am looking for.
  
- 
- Based on the kind of property I have, I have put it up for sale. I have kept a asking price for the same. Based on the parameters such as
+ User#2:
+ Based on the kind of property I have, I have put it up for sale. Based on the parameters such as
  area(per square ft), zipcode, nieghbourhood, year of built, I would like to know whether my asking price is approriate or not.
  
  Here we have assumed that if the asking price is within +/- 10 % of the predicted price, then asking price is appropriate
